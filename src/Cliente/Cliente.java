@@ -21,6 +21,11 @@ public class Cliente {
 		this.peso = peso;
 	}
 
+	public Cliente(String string, String string2, int i, String string3, String string4, float f, float g,
+			String string5) {
+		// TODO Auto-generated constructor stub
+	}
+
 	public String getNome() {
 		return nome;
 	}
